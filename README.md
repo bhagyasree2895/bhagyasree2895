@@ -5,7 +5,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyasree2895" alt="bhagyasree2895" /> </p>
  
  </br>
-
 - 👀 I’m interested in Learning Coding, Singing, Playing badminton, Gardening, Crafts Making.
 - 🌱 I’m currently learning Java, Spring Boot, Python and Android
 - 🔭 I’m looking to collaborate on any Financial, Aviation, Health Care organizatons
@@ -18,6 +17,10 @@ I'm a passionate self-taught Software Engineer currently working for VISA. My pa
 **Languages and Tools:**
 <br>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
