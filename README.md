@@ -3,8 +3,8 @@
 <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyasree2895" alt="bhagyasree2895" /> </p>
- 
- </br>
+  </br>
+
 - 👀 I’m interested in Learning Coding, Singing, Playing badminton, Gardening, Crafts Making.
 - 🌱 I’m currently learning Java, Spring Boot, Python and Android
 - 🔭 I’m looking to collaborate on any Financial, Aviation, Health Care organizatons
